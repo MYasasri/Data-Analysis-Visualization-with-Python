@@ -151,3 +151,4 @@ plt.figure(figsize=(6, 4))
 sns.heatmap(corr, annot=True, cmap="coolwarm", fmt=".2f")
 plt.title("Correlation Heatmap of Chronic Disease Metrics")
 plt.show()
+
